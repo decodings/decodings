@@ -10,4 +10,4 @@ int main() {
     return 0;
 }
 ```
-![](https://komarev.com/ghpvc/?username=decodings&color=0277ff&style=for-the-badge&label=Visits)
+![](https://komarev.com/ghpvc/?username=decodings&color=ff0000&style=for-the-badge&label=Visits)
