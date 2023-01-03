@@ -5,7 +5,8 @@ using namespace std;
 
 int main() {
     cout << "Discord: ++;#0277" << endl
-         << "Telegram: @decodings";
+         << "Telegram: @decodings" << endl
+         << "Projects: discord.gg/download";
 
     return 0;
 }
